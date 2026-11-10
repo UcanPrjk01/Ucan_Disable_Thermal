@@ -1,0 +1,1 @@
+# Ucan_Disable_Thermal
