@@ -1,0 +1,7 @@
+id=Ucan_Disable_Thermal
+name=Ucan Disable Thermal Universal
+version=v2.0
+versionCode=11
+author=UcanPrjk01
+description=Universal thermal disabler for Android. Use at your own risk.
+updateJson=https://ucanprjk01.github.io/Ucan_Disable_Thermal/update.json
